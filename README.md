@@ -24,8 +24,8 @@ This project analyzes how product availability impacts average pricing across ca
 retail-visual-insights/
 ├── data/
 │   └── products.csv
-├── notebooks/
-│   └── retail_analysis.ipynb
+├── src/
+│   └── visualize.py
 ├── images/
 │   └── category_price_availability.png
 ├── README.md
@@ -71,4 +71,3 @@ jupyter notebook notebooks/retail_analysis.ipynb
 
 ---
 
-Would you like me to generate the actual notebook content (`retail_analysis.ipynb`) or help you write a short project description for your GitHub profile?
