@@ -25,8 +25,7 @@ retail-visual-insights/
 ├── images/
 │   └── category_price_availability.png
 ├── README.md
-├── requirements.txt
-└── .gitignore
+└── requirements.txt
 ```
 
 ---
