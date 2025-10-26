@@ -54,15 +54,3 @@ pip install -r requirements.txt
 cd src
 python visualize.py
 ```
-
----
-
-### 📬 Author
-
-**SARMAT**  
-🔗 [Telegram](https://t.me/your_username)  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile)  
-📧 your@email.com
-
----
-
