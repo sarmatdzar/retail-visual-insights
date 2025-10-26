@@ -14,6 +14,15 @@ This project analyzes how product availability impacts average pricing across ca
 
 ---
 
+### 🚀 How to Run
+
+```bash
+pip install -r requirements.txt
+cd src
+python visualize.py
+```
+
+
 ### 📁 Project Structure
 
 ```
@@ -47,10 +56,3 @@ retail-visual-insights/
 
 ---
 
-### 🚀 How to Run
-
-```bash
-pip install -r requirements.txt
-cd src
-python visualize.py
-```
