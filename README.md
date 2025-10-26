@@ -1,7 +1,3 @@
-Absolutely, SARMAT! Here's a polished and professional English version of your GitHub project README that showcases your skills in data analysis and visualization:
-
----
-
 ## 🛍️ Retail Visual Insights
 
 Intelligent data visualization of product inventory using Python, Pandas, Matplotlib, and Seaborn.
@@ -41,7 +37,7 @@ retail-visual-insights/
 - Pandas
 - Matplotlib
 - Seaborn
-- Jupyter Notebook
+- OS
 
 ---
 
@@ -57,7 +53,8 @@ retail-visual-insights/
 
 ```bash
 pip install -r requirements.txt
-jupyter notebook notebooks/retail_analysis.ipynb
+cd src
+python visualize.py
 ```
 
 ---
