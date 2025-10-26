@@ -36,7 +36,6 @@ retail-visual-insights/
 - Pandas
 - Matplotlib
 - Seaborn
-- OS
 
 ---
 
